@@ -1,5 +1,6 @@
 # Beonor
-_Aplikasi untuk manajemen aplikasi_.
+*Aplikasi untuk manajemen aplikasi*.
+
 Untuk tugas matakuliah **Tugas Proyek Perangkat Lunak**
 
 by :
