@@ -8,7 +8,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://github.com/setakarim/beonor" target="_blank">
                         Github
                     </a>
                 </li>

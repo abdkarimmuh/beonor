@@ -7,7 +7,7 @@
                     <i class="material-icons design_bullet-list-67 visible-on-sidebar-mini">view_list</i>
                 </button>
             </div>
-            <a class="navbar-brand" href="#pablo">@yield('title')</a>
+            <a class="navbar-brand" href="#">@yield('title')</a>
         </div>
 
         <div class="collapse navbar-collapse justify-content-end">
@@ -21,7 +21,7 @@
                         </p>
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Logout</a>
+                        <a class="dropdown-item" href="{{ route('login') }}">Logout</a>
                     </div>
                 </li>
             </ul>
