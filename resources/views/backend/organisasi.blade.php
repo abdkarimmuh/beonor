@@ -80,6 +80,7 @@
                             </div>
                         </div>
                     </form>
+                    <button type="submit" class="btn btn-rose pull-right" style="background: linear-gradient(to bottom left, #5F65A3 , #21BCEA)">Save</button>
                 </div>
             </div>
         </div>

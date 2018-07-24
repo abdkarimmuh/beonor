@@ -11,13 +11,13 @@
 |
 */
 
-//Route::get('/', function () {
-//    return view('welcome');
-//});
+Route::get('/', function () {
+    return view('welcome');
+});
 
-//Route::get('/', function () {
-//    return view('backend.layout.template');
-//});
+Route::get('/login', function () {
+    return view('backend.login');
+})->name('login');
 
 Route::get('/surat', function () {
     return view('backend.surat');
